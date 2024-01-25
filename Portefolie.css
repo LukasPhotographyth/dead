@@ -1,0 +1,39 @@
+body{
+    background-color: #293646;
+}
+body{
+    font-family: montserrat;
+}
+nav{
+    background: #e60000;
+    height: 83px;
+    width: 100%;
+}
+
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+nav ul li a{
+    color: white;
+}
+
+
+
+
+nav ul li{
+    color: rgb(20, 195, 226);
+}
+
+
+
+
+
+
+
+
